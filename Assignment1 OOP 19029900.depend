@@ -1,0 +1,553 @@
+# depslib dependency file v1.0
+1533774721 source:c:\users\brad\desktop\uni\oop\assignment1\assignment1 oop 19029900\boardimp.cpp
+	"Board.h"
+
+1533780677 c:\users\brad\desktop\uni\oop\assignment1\assignment1 oop 19029900\board.h
+	<string>
+
+1533781733 source:c:\users\brad\desktop\uni\oop\assignment1\assignment1 oop 19029900\main.cpp
+	<iostream>
+	<string>
+	"MKGame.h"
+	"MKDriver.h"
+	"PlayerComputer.h"
+
+1533782600 c:\users\brad\desktop\uni\oop\assignment1\assignment1 oop 19029900\mkgame.h
+	<string>
+
+1533774546 c:\users\brad\desktop\uni\oop\assignment1\assignment1 oop 19029900\mkdriver.h
+	<string>
+
+1533774705 source:c:\users\brad\desktop\uni\oop\assignment1\assignment1 oop 19029900\mkdriverimp.cpp
+	"MKDriver.h"
+
+1533779139 source:c:\users\brad\desktop\uni\oop\assignment1\assignment1 oop 19029900\mkgameimp.cpp
+	"MKGame.h"
+
+1533782727 source:c:\users\brad\desktop\uni\oop\assignment1\assignment1 oop 19029900\playercomputerimp.cpp
+	"PlayerComputer.h"
+
+1533782728 c:\users\brad\desktop\uni\oop\assignment1\assignment1 oop 19029900\playercomputer.h
+	"Player.h"
+
+1533774667 source:c:\users\brad\desktop\uni\oop\assignment1\assignment1 oop 19029900\playerimp.cpp
+	"Player.h"
+
+1533781542 c:\users\brad\desktop\uni\oop\assignment1\assignment1 oop 19029900\player.h
+	<string>
+
+1533774921 source:c:\users\brad\desktop\uni\oop\assignment1\assignment1 oop 19029900\playerhumanimp.cpp
+	"PlayerHuman.h"
+
+1533782628 c:\users\brad\desktop\uni\oop\assignment1\assignment1 oop 19029900\playerhuman.h
+	"Player.h"
+
+1533892564 source:e:\assignment1 oop 19029900\main.cpp
+	<iostream>
+	<string>
+	"MKGame.h"
+	"MKDriver.h"
+	"board.h"
+	"PlayerComputer.h"
+
+1533860030 e:\assignment1 oop 19029900\mkgame.h
+	<string>
+
+1533774548 e:\assignment1 oop 19029900\mkdriver.h
+	<string>
+
+1533948016 e:\assignment1 oop 19029900\playercomputer.h
+	"Player.h"
+	"Board.h"
+	"MKGame.h"
+	"MoveData.h"
+
+1533900034 e:\assignment1 oop 19029900\player.h
+	<string>
+	"MoveData.h"
+	"MKGame.h"
+	"Board.h"
+
+1533774706 source:e:\assignment1 oop 19029900\mkdriverimp.cpp
+	"MKDriver.h"
+
+1533948234 source:e:\assignment1 oop 19029900\playercomputerimp.cpp
+	"PlayerComputer.h"
+	"MKGame.h"
+	"BOARD.H"
+
+1533887310 source:e:\assignment1 oop 19029900\playerimp.cpp
+	"Player.h"
+
+1533912224 source:e:\assignment1 oop 19029900\boardimp.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<time.h>
+	"Board.h"
+	"MoveData.h"
+
+1533886882 e:\assignment1 oop 19029900\board.h
+	<string>
+	"MoveData.h"
+
+1533901238 source:e:\assignment1 oop 19029900\playerhumanimp.cpp
+	<iostream>
+	"PlayerHuman.h"
+	"MoveData.H"
+	"MKGame.h"
+
+1533891916 e:\assignment1 oop 19029900\playerhuman.h
+	"Player.h"
+	"Board.h"
+	"MKGame.h"
+
+1533913250 source:e:\assignment1 oop 19029900\mkgameimp.cpp
+	<string>
+	<iostream>
+	<algorithm>
+	"MKGame.h"
+	"playerHuman.h"
+	"playerComputer.h"
+	"moveData.h"
+
+1533796162 source:e:\assignment1 oop 19029900\moveimp.cpp
+	"Move.h"
+
+1533796722 e:\assignment1 oop 19029900\move.h
+	<string>
+
+1533947450 e:\assignment1 oop 19029900\movedata.h
+	<string>
+
+1533911808 source:e:\assignment1 oop 19029900\movedataimp.cpp
+
+1534204062 source:k:\assignment1 oop 19029900\main.cpp
+	<iostream>
+	<string>
+	"MKGame.h"
+	"MKDriver.h"
+	"board.h"
+
+1533860030 k:\assignment1 oop 19029900\mkgame.h
+	<string>
+
+1534202424 k:\assignment1 oop 19029900\mkdriver.h
+	<string>
+
+1534123450 k:\assignment1 oop 19029900\board.h
+	<string>
+	"MoveData.h"
+
+1534125026 k:\assignment1 oop 19029900\movedata.h
+	<string>
+
+1533964696 k:\assignment1 oop 19029900\playercomputer.h
+	"Player.h"
+	"Board.h"
+	"MKGame.h"
+	"MoveData.h"
+
+1533900034 k:\assignment1 oop 19029900\player.h
+	<string>
+	"MoveData.h"
+	"MKGame.h"
+	"Board.h"
+
+1534203950 source:k:\assignment1 oop 19029900\mkdriverimp.cpp
+	<time.h>
+	<iostream>
+	<string>
+	<algorithm>
+	"MKDriver.h"
+	"board.h"
+
+1533972238 source:k:\assignment1 oop 19029900\mkgameimp.cpp
+	<string>
+	<iostream>
+	<algorithm>
+	"MKGame.h"
+	"playerHuman.h"
+	"playerComputerRand.h"
+	"playerComputerMinimax.h"
+	"moveData.h"
+
+1533911808 source:k:\assignment1 oop 19029900\movedataimp.cpp
+
+1533964158 source:k:\assignment1 oop 19029900\playercomputerimp.cpp
+	<stdlib.h>
+	<time.h>
+	<ctime>
+	<iostream>
+	<math.h>
+	"PlayerComputer.h"
+	"MKGame.h"
+	"BOARD.H"
+
+1533887310 source:k:\assignment1 oop 19029900\playerimp.cpp
+	"Player.h"
+
+1533901238 source:k:\assignment1 oop 19029900\playerhumanimp.cpp
+	<iostream>
+	"PlayerHuman.h"
+	"MoveData.H"
+	"MKGame.h"
+
+1533891916 k:\assignment1 oop 19029900\playerhuman.h
+	"Player.h"
+	"Board.h"
+	"MKGame.h"
+
+1534123350 source:k:\assignment1 oop 19029900\boardimp.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<time.h>
+	"Board.h"
+	"MoveData.h"
+
+1533965380 source:k:\assignment1 oop 19029900\playercomputerrandimp.cpp
+	<stdlib.h>
+	<time.h>
+	<ctime>
+	<iostream>
+	<math.h>
+	"PlayerComputerRand.h"
+	"MKGame.h"
+	"BOARD.H"
+
+1533965316 k:\assignment1 oop 19029900\playercomputerrand.h
+	"Player.h"
+	"Board.h"
+	"MKGame.h"
+	"MoveData.h"
+
+1534123574 k:\assignment1 oop 19029900\playercomputerminimax.h
+	"Player.h"
+	"Board.h"
+	"MKGame.h"
+	"MoveData.h"
+
+1534128716 source:k:\assignment1 oop 19029900\playercomputerminimaximp.cpp
+	<stdlib.h>
+	<time.h>
+	<ctime>
+	<iostream>
+	<math.h>
+	"PlayerComputerMinimax.h"
+	"MKGame.h"
+	"BOARD.H"
+
+1534204168 source:d:\assignment1 oop 19029900\boardimp.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<time.h>
+	"Board.h"
+	"MoveData.h"
+
+1534123450 d:\assignment1 oop 19029900\board.h
+	<string>
+	"MoveData.h"
+
+1534125026 d:\assignment1 oop 19029900\movedata.h
+	<string>
+
+1534204062 source:d:\assignment1 oop 19029900\main.cpp
+	<iostream>
+	<string>
+	"MKGame.h"
+	"MKDriver.h"
+	"board.h"
+
+1533860030 d:\assignment1 oop 19029900\mkgame.h
+	<string>
+
+1534202424 d:\assignment1 oop 19029900\mkdriver.h
+	<string>
+
+1534204212 source:d:\assignment1 oop 19029900\mkdriverimp.cpp
+	<time.h>
+	<iostream>
+	<string>
+	<algorithm>
+	"MKDriver.h"
+	"board.h"
+
+1533972238 source:d:\assignment1 oop 19029900\mkgameimp.cpp
+	<string>
+	<iostream>
+	<algorithm>
+	"MKGame.h"
+	"playerHuman.h"
+	"playerComputerRand.h"
+	"playerComputerMinimax.h"
+	"moveData.h"
+
+1533891916 d:\assignment1 oop 19029900\playerhuman.h
+	"Player.h"
+	"Board.h"
+	"MKGame.h"
+
+1533900034 d:\assignment1 oop 19029900\player.h
+	<string>
+	"MoveData.h"
+	"MKGame.h"
+	"Board.h"
+
+1533965316 d:\assignment1 oop 19029900\playercomputerrand.h
+	"Player.h"
+	"Board.h"
+	"MKGame.h"
+	"MoveData.h"
+
+1534123574 d:\assignment1 oop 19029900\playercomputerminimax.h
+	"Player.h"
+	"Board.h"
+	"MKGame.h"
+	"MoveData.h"
+
+1534128716 source:d:\assignment1 oop 19029900\playercomputerminimaximp.cpp
+	<stdlib.h>
+	<time.h>
+	<ctime>
+	<iostream>
+	<math.h>
+	"PlayerComputerMinimax.h"
+	"MKGame.h"
+	"BOARD.H"
+
+1533965380 source:d:\assignment1 oop 19029900\playercomputerrandimp.cpp
+	<stdlib.h>
+	<time.h>
+	<ctime>
+	<iostream>
+	<math.h>
+	"PlayerComputerRand.h"
+	"MKGame.h"
+	"BOARD.H"
+
+1533901238 source:d:\assignment1 oop 19029900\playerhumanimp.cpp
+	<iostream>
+	"PlayerHuman.h"
+	"MoveData.H"
+	"MKGame.h"
+
+1533887310 source:d:\assignment1 oop 19029900\playerimp.cpp
+	"Player.h"
+
+1534204168 source:c:\users\bradley\desktop\uni\oop\assignment1 oop 19029900\boardimp.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<time.h>
+	"Board.h"
+	"MoveData.h"
+
+1534123450 c:\users\bradley\desktop\uni\oop\assignment1 oop 19029900\board.h
+	<string>
+	"MoveData.h"
+
+1534464420 c:\users\bradley\desktop\uni\oop\assignment1 oop 19029900\movedata.h
+	<string>
+
+1534204062 source:c:\users\bradley\desktop\uni\oop\assignment1 oop 19029900\main.cpp
+	<iostream>
+	<string>
+	"MKGame.h"
+	"MKDriver.h"
+	"board.h"
+
+1533860030 c:\users\bradley\desktop\uni\oop\assignment1 oop 19029900\mkgame.h
+	<string>
+
+1534202424 c:\users\bradley\desktop\uni\oop\assignment1 oop 19029900\mkdriver.h
+	<string>
+
+1534204212 source:c:\users\bradley\desktop\uni\oop\assignment1 oop 19029900\mkdriverimp.cpp
+	<time.h>
+	<iostream>
+	<string>
+	<algorithm>
+	"MKDriver.h"
+	"board.h"
+
+1533972238 source:c:\users\bradley\desktop\uni\oop\assignment1 oop 19029900\mkgameimp.cpp
+	<string>
+	<iostream>
+	<algorithm>
+	"MKGame.h"
+	"playerHuman.h"
+	"playerComputerRand.h"
+	"playerComputerMinimax.h"
+	"moveData.h"
+
+1533891916 c:\users\bradley\desktop\uni\oop\assignment1 oop 19029900\playerhuman.h
+	"Player.h"
+	"Board.h"
+	"MKGame.h"
+
+1533900034 c:\users\bradley\desktop\uni\oop\assignment1 oop 19029900\player.h
+	<string>
+	"MoveData.h"
+	"MKGame.h"
+	"Board.h"
+
+1533965316 c:\users\bradley\desktop\uni\oop\assignment1 oop 19029900\playercomputerrand.h
+	"Player.h"
+	"Board.h"
+	"MKGame.h"
+	"MoveData.h"
+
+1534123574 c:\users\bradley\desktop\uni\oop\assignment1 oop 19029900\playercomputerminimax.h
+	"Player.h"
+	"Board.h"
+	"MKGame.h"
+	"MoveData.h"
+
+1534128716 source:c:\users\bradley\desktop\uni\oop\assignment1 oop 19029900\playercomputerminimaximp.cpp
+	<stdlib.h>
+	<time.h>
+	<ctime>
+	<iostream>
+	<math.h>
+	"PlayerComputerMinimax.h"
+	"MKGame.h"
+	"BOARD.H"
+
+1533965380 source:c:\users\bradley\desktop\uni\oop\assignment1 oop 19029900\playercomputerrandimp.cpp
+	<stdlib.h>
+	<time.h>
+	<ctime>
+	<iostream>
+	<math.h>
+	"PlayerComputerRand.h"
+	"MKGame.h"
+	"BOARD.H"
+
+1533901238 source:c:\users\bradley\desktop\uni\oop\assignment1 oop 19029900\playerhumanimp.cpp
+	<iostream>
+	"PlayerHuman.h"
+	"MoveData.H"
+	"MKGame.h"
+
+1533887310 source:c:\users\bradley\desktop\uni\oop\assignment1 oop 19029900\playerimp.cpp
+	"Player.h"
+
+1537495391 source:c:\users\bradley\desktop\uni\sem 03 - object oriented programming\assignment1 oop 19029900\boardimp.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<time.h>
+	"Board.h"
+	"MoveData.h"
+
+1536887212 c:\users\bradley\desktop\uni\sem 03 - object oriented programming\assignment1 oop 19029900\board.h
+	<string>
+	"MoveData.h"
+
+1536738208 c:\users\bradley\desktop\uni\sem 03 - object oriented programming\assignment1 oop 19029900\movedata.h
+	<string>
+
+1536907253 source:c:\users\bradley\desktop\uni\sem 03 - object oriented programming\assignment1 oop 19029900\mkdriverimp.cpp
+	<time.h>
+	<iostream>
+	<string>
+	<algorithm>
+	"MKDriver.h"
+	"board.h"
+
+1536849657 c:\users\bradley\desktop\uni\sem 03 - object oriented programming\assignment1 oop 19029900\mkdriver.h
+	<string>
+
+1538543697 source:c:\users\bradley\desktop\uni\sem 03 - object oriented programming\assignment1 oop 19029900\mkgameimp.cpp
+	<string>
+	<iostream>
+	<algorithm>
+	"MKGame.h"
+	"PLAYER.H"
+	"playerHuman.h"
+	"playerComputerRand.h"
+	"playerComputerMinimax.h"
+	"playerComputerMonteCarlo.h"
+	"moveData.h"
+	"MKDriver.h"
+
+1536906523 c:\users\bradley\desktop\uni\sem 03 - object oriented programming\assignment1 oop 19029900\mkgame.h
+	"player.h"
+	"board.h"
+	<string>
+
+1536887922 c:\users\bradley\desktop\uni\sem 03 - object oriented programming\assignment1 oop 19029900\playerhuman.h
+	"Player.h"
+	"Board.h"
+	"MKGame.h"
+
+1537495173 c:\users\bradley\desktop\uni\sem 03 - object oriented programming\assignment1 oop 19029900\player.h
+	<string>
+	"MoveData.h"
+	"Board.h"
+
+1536854257 c:\users\bradley\desktop\uni\sem 03 - object oriented programming\assignment1 oop 19029900\playercomputerrand.h
+	"Player.h"
+	"Board.h"
+	"MKGame.h"
+	"MoveData.h"
+
+1536904977 c:\users\bradley\desktop\uni\sem 03 - object oriented programming\assignment1 oop 19029900\playercomputerminimax.h
+	"Player.h"
+	"Board.h"
+	"MKGame.h"
+	"MoveData.h"
+
+1550546128 source:c:\users\bradley\desktop\uni\sem 03 - object oriented programming\assignment1 oop 19029900\playercomputerminimaximp.cpp
+	<stdlib.h>
+	<time.h>
+	<ctime>
+	<iostream>
+	<math.h>
+	"PlayerComputerMinimax.h"
+	"MKGame.h"
+	"BOARD.H"
+
+1536854092 source:c:\users\bradley\desktop\uni\sem 03 - object oriented programming\assignment1 oop 19029900\playercomputerrandimp.cpp
+	<stdlib.h>
+	<time.h>
+	<ctime>
+	<iostream>
+	<math.h>
+	"PlayerComputerRand.h"
+	"MKGame.h"
+	"BOARD.H"
+
+1536887937 source:c:\users\bradley\desktop\uni\sem 03 - object oriented programming\assignment1 oop 19029900\playerhumanimp.cpp
+	<iostream>
+	"PlayerHuman.h"
+	"MoveData.H"
+	"MKGame.h"
+
+1536907395 source:c:\users\bradley\desktop\uni\sem 03 - object oriented programming\assignment1 oop 19029900\main.cpp
+	<iostream>
+	<string>
+	"MKGame.h"
+	"board.h"
+
+1534468624 source:c:\users\bradley\desktop\uni\sem 03 - object oriented programming\assignment1 oop 19029900\playerimp.cpp
+	"Player.h"
+
+1536906450 source:c:\users\bradley\desktop\uni\sem 03 - object oriented programming\assignment1 oop 19029900\playercomputermontecarlo.cpp
+	<stdlib.h>
+	<time.h>
+	<ctime>
+	<iostream>
+	<math.h>
+	"playerComputerMonteCarlo.h"
+	"MKGame.h"
+	"BOARD.H"
+
+1536905936 c:\users\bradley\desktop\uni\sem 03 - object oriented programming\assignment1 oop 19029900\playercomputermontecarlo.h
+	"Player.h"
+	"Board.h"
+	"MKGame.h"
+	"MoveData.h"
+

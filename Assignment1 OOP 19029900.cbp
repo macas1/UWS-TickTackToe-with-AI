@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Assignment1 OOP 19029900" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Assignment1 OOP 19029900" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Assignment1 OOP 19029900" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="BOARD.H" />
+		<Unit filename="BOARDIMP.CPP" />
+		<Unit filename="MKDriver.h" />
+		<Unit filename="MKDriverImp.cpp" />
+		<Unit filename="MKGame.h" />
+		<Unit filename="MKGameImp.cpp" />
+		<Unit filename="MOVEDATA.H" />
+		<Unit filename="PLAYER.H" />
+		<Unit filename="PlayerComputerMinimax.h" />
+		<Unit filename="PlayerComputerMinimaxImp.cpp" />
+		<Unit filename="PlayerComputerMonteCarlo.cpp" />
+		<Unit filename="PlayerComputerMonteCarlo.h" />
+		<Unit filename="PlayerComputerRand.h" />
+		<Unit filename="PlayerComputerRandImp.cpp" />
+		<Unit filename="PlayerHuman.h" />
+		<Unit filename="PlayerHumanImp.cpp" />
+		<Unit filename="PlayerImp.cpp" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
